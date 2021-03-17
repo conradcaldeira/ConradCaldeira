@@ -1,0 +1,30 @@
+/* body {
+    background-color: black;
+}
+*/
+.title {
+    color: #676781;
+    font-family: tomatoes;
+    font-weight: lighter;
+}
+
+header {
+        background-color: #9AAFB2;
+        text-align: center;
+    
+    }
+   
+
+main {
+    background-image: url("images/background-wallpaper.png");
+    color: gray;
+
+}
+
+.fixed{
+    background-color: #9AAFB2;
+}
+
+h1 {
+    font-size: 100px;
+}

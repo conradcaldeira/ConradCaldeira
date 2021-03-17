@@ -1,0 +1,64 @@
+body {
+    text-align: center;
+    color: pink;
+    font-family: helvetica;
+
+    
+    font-size: 25px;
+   
+}
+
+.mainpagebody {
+    background: url("images/pic2.jpg");
+    background-position: center;
+    background-size: 100%;
+
+}
+li {
+    padding: 0px 10px 0px 10px;
+    display: inline;
+}
+
+
+input {
+    border: 0;
+    padding: 10px;
+    font-size: 18px;
+}
+
+h1 {
+font-family: tomatoes;
+font-size: 75px;
+}
+
+input[type="submit"] {
+
+background-color: cornflowerblue;
+color: whitesmoke;
+}
+
+
+.food-blog {
+    background-image: url("images/foodblogheader.jpg");
+    background-position: 100%;
+    color: wheat;
+}
+
+.navbar-container {
+    color:white;
+    background-color: black;
+}
+
+.homenav {
+    margin: -10px 0px 0px 0px;
+}
+
+
+a {
+    color: white;
+    
+}
+
+a:hover {
+    color: green;
+}
